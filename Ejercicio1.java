@@ -1,3 +1,6 @@
+//Asks for the name and gender of the user
+//Returns a greeting
+
 
 package ejercBucles;
 
